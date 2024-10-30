@@ -66,7 +66,7 @@ export default function SignIn() {
           </button>
 
           <p className="text-center text-gray-500 text-base mt-6">
-            Don't have an account?{' '}
+          New here? {' '}
             <Link href="/signup" className="text-violet-600 hover:underline hover:text-violet-800 ">
               Sign up
             </Link>
